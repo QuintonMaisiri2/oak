@@ -1,0 +1,1006 @@
+[
+  {
+    "id": "apt",
+    "name": "APT",
+    "description": "Agricultural Partnerships for Transformation (APT) is a Zimbabwean development organisation working with smallholder farmers and rural communities to build more resilient, productive and sustainable food and farming systems. APT promotes agroecological approaches that strengthen food and nutrition security, improve rural livelihoods and connect farmers more effectively to markets, working through partnerships with communities, government, civil society and the private sector. Its emphasis is on locally led solutions that are practical, inclusive and capable of continuing and scaling beyond individual projects.",
+    "website": "https://apt.co.zw",
+    "logo": "/logos/apt.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Michael Dawes",
+        "role": "Director",
+        "email": "michael@apt.co.zw",
+        "phone": "+263772212201"
+      }
+    ]
+  },
+  {
+    "id": "africa-ahead",
+    "name": "Africa Ahead",
+    "description": "Africa AHEAD is a Zimbabwean NGO that empowers communities to achieve sustainable improvements in health, wellbeing and resilience through participatory, locally led development. Its approach strengthens community structures, local capacity and collective action to support sustainable and inclusive development.",
+    "website": "https://www.africaahead.org",
+    "logo": "/logos/africa-ahead.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Regis Matimati",
+        "role": "Executive Director",
+        "email": "regis@africaahead.com",
+        "phone": "0773038700"
+      }
+    ]
+  },
+  {
+    "id": "bethany",
+    "name": "Bethany",
+    "description": "Bethany Project is a registered Private Voluntary Organisation (PVO 2/98). It is a child- and youth-centred organisation whose niche is the protection, empowerment, and development of children and young people.",
+    "website": "https://thebethanyproject.co.zw",
+    "logo": "/logos/bethany.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Bethany Bethanny",
+        "role": "Director",
+        "email": "bethanyproject@gmail.com",
+        "phone": "+263773409121"
+      }
+    ]
+  },
+  {
+    "id": "dapp",
+    "name": "DAPP",
+    "description": "Development Aid from People to People Zimbabwe is a locally registered Private Voluntary Organization that has been dedicated to social development in Zimbabwe since its registration in June 1980. DAPP Zimbabwe complements the government efforts through implementing short and long-term development project activities in (1) Education, (2) Health, (3) Agriculture, (4) Community Development and (5) Emergencies aligned with national strategies and Sustainable Development Goals (SDGs).",
+    "website": "https://www.dapp-zimbabwe.org/",
+    "logo": "/logos/dapp.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Alma Kamungere",
+        "role": "Communications Officer",
+        "email": "alma.kamungere@dapp-zimbabwe.org",
+        "phone": "+263783971619"
+      }
+    ]
+  },
+  {
+    "id": "cafod",
+    "name": "CAFOD",
+    "description": "CAFOD is the official Catholic aid agency for England and Wales tackling poverty and injustice across the world. CAFOD has been working in Zimbabwe since the 1970s, delivering humanitarian, resilience, and development programmes through strong partnerships with local civil society organizations, faith-based institutions, community structures, and government stakeholders.",
+    "website": "https://cafod.org.uk/",
+    "logo": "/logos/cafod.svg",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Shingai Nhara",
+        "role": "Business Development Lead",
+        "email": "snhara@cafod.org.uk",
+        "phone": "+263775030919"
+      }
+    ]
+  },
+  {
+    "id": "alfred-walter-hostel",
+    "name": "Alfred Walter Hostel",
+    "description": "Alfred Walter Hostel is a residential care and boarding facility located in Masvingo, Zimbabwe, that provides a warm home, specialized care, and skills training for about 150 children and youth with intellectual and mental challenges.",
+    "website": "",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Sister",
+        "role": "Representative",
+        "email": "sji.sister.alfredwalter@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": "caritas-chinhoyi",
+    "name": "Caritas Chinhoyi",
+    "description": "Caritas Chinhoyi is the development arm of the Catholic Diocese of Chinhoyi in Zimbabwe, committed to promoting human dignity, social justice, and sustainable community development in Rushinga, Mbire, Hurungwe, and Chinhoyi. Through partnerships with communities, government, and development partners, it implements programmes in child protection, gender equality, disability inclusion, food security, climate resilience, WASH, and livelihoods, prioritising the most vulnerable and marginalised. Guided by Catholic Social Teaching, Caritas Chinhoyi works to build resilient, inclusive, and empowered communities.",
+    "website": "https://caritaschinhoyizim.org",
+    "logo": "/logos/caritas_chinhoyi.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Fr Johannes Zevito",
+        "role": "Development Coordinator",
+        "email": "fr.jzevito@chinhoyidiocese.org",
+        "phone": "+263772395851"
+      },
+      {
+        "id": "contact-2",
+        "name": "Ruwadzano Muzvondiwa",
+        "role": "Representative",
+        "email": "fr.jzevito@chinhoyidiocese.org"
+      }
+    ]
+  },
+  {
+    "id": "caritas-masvingo",
+    "name": "Caritas Masvingo",
+    "description": "Caritas Masvingo provides humanitarian assistance, promotes sustainable agriculture, and supports community development in the Masvingo province.",
+    "website": "https://caritasmasvingozim.co.zw/"
+  },
+  {
+    "id": "caritas-mutare",
+    "name": "Caritas Mutare",
+    "description": "Caritas Mutare is the official charitable and development arm of the Diocese of Mutare, operating within the mission of the Catholic Church to proclaim the Gospel through concrete acts of charity, justice, and service. Rooted in Sacred Scripture and Catholic Social Teaching, Caritas Mutare exists to uphold the dignity of every human person, promote solidarity with the poor and vulnerable, and contribute to sustainable development within communities served by the Diocese.",
+    "website": "https://caritasmutare.org/",
+    "logo": "/logos/caritas-mutare.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Fr Ernest Gumbeze",
+        "role": "Development Coordinator",
+        "email": "egumbeze@caritasmutare.org",
+        "phone": "+263774671893"
+      },
+      {
+        "id": "contact-2",
+        "name": "Kennedy Mukonyora",
+        "role": "Programmes",
+        "email": "programmes@caritasmutare.org"
+      }
+    ]
+  },
+  {
+    "id": "st-alberts-mission",
+    "name": "St Alberts Mission",
+    "description": "Shamwari Dzevanhu St Alberts Mission (SDSAM) is a women-led, Private Voluntary Organization which is faith based (Catholic Church) in Zimbabwe dedicated to advancing the dignity, rights and wellbeing of women, girls, people with disabilities and vulnerable communities. Through community-based health, gender justice, GBV prevention, livelihoods, WASH and social support programmes, SDSAM works with communities and partners to build safer, more inclusive and resilient families across Mashonaland Central Province.",
+    "website": "https://stalbertsmissionhospital.org/",
+    "logo": "/logos/st_alberts_mission.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Sister Melania Nyamukuwa",
+        "role": "Sister (Consecrated)",
+        "email": "stalbertschbc@gmail.com",
+        "phone": "0776977687"
+      },
+      {
+        "id": "contact-2",
+        "name": "Jonathan Mapanda",
+        "role": "Representative",
+        "email": "stalbertschbc@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": "care",
+    "name": "CARE",
+    "description": "CARE has worked in Zimbabwe since 1992, driving lasting change through six connected impact areas: gender equality, including education; food, water and nutrition security; economic empowerment that makes markets and financial products work for women; health solutions co-created with communities; climate resilience through adaptation and innovation; and humanitarian response that delivers urgent, flexible aid when crises strike.",
+    "website": "https://www.carezimbabwe.org/",
+    "logo": "/logos/care.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Delilah Takawira",
+        "role": "Country Director",
+        "email": "Delilah.Takawira@care.org",
+        "phone": "0772729817"
+      }
+    ]
+  },
+  {
+    "id": "zimworks",
+    "name": "ZimWorks",
+    "description": "ZimWorX provides business process outsourcing (BPO) and remote staffing solutions, creating sustainable employment opportunities and career development for Zimbabwean youth.",
+    "website": "https://zimworx.com/",
+    "logo": "/logos/zimworx.webp"
+  },
+  {
+    "id": "childline",
+    "name": "Childline",
+    "description": "Childline Zimbabwe operates the national free 24-hour helpline (116) service, providing therapeutic interventions and case management services for children on issues such as abuse, exploitation, mental health and suicide prevention. Childline works at improving child and family well-being, strengthening community-based support systems, challenging harmful gender and parenting norms and enhancing coordination within child protection systems.",
+    "website": "https://www.childline.org.zw",
+    "logo": "/logos/childline.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Ratidzai Moyo",
+        "role": "Director",
+        "email": "director@childline.org.zw",
+        "phone": "0719430736"
+      },
+      {
+        "id": "contact-2",
+        "name": "Progress Nangati",
+        "role": "Representative",
+        "email": "director@childline.org.zw"
+      }
+    ]
+  },
+  {
+    "id": "council-for-the-blind",
+    "name": "Council for the Blind",
+    "description": "The Zimbabwe Council for the Blind (ZCfB) is a leading eye health organisation established in 1955, dedicated to preventing avoidable blindness and improving access to affordable, quality eye care across Zimbabwe. Its services include comprehensive eye care, cataract surgeries, minor and major ophthalmic surgeries, community outreach, school vision screening, inclusive education, low vision care, rehabilitation, and issuance of affordable spectacles. Guided by its strategic direction, “Restoring Sight, Empowering Lives,” ZCfB works with the Government of Zimbabwe and partners towards a nation free from avoidable blindness.",
+    "website": "https://councilfortheblind.org.zw/",
+    "logo": "/logos/council-for-the-blind.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Aplos Nyathi",
+        "role": "Executive Director",
+        "email": "aplos@cfbzimbabwe.com",
+        "phone": "+263712209822"
+      },
+      {
+        "id": "contact-2",
+        "name": "Busisiwe Mzyece",
+        "role": "Head Of Programmes",
+        "email": "mzyecebusisiwe@gmail.com",
+        "phone": "+263717748550"
+      }
+    ]
+  },
+  {
+    "id": "education-matters",
+    "name": "Education Matters",
+    "description": "Education Matters helps high-achieving, low-income African students access international educational opportunities through programs like the USAP Community School.",
+    "website": "https://www.edmattersafrica.org/",
+    "logo": "/logos/education_matters.avif"
+  },
+  {
+    "id": "ele-collection",
+    "name": "Ele Collection",
+    "description": "Ele-Collection is a pioneering African circular economy company tackling plastic pollution while empowering women through meaningful employment and economic opportunity. At the heart of our work are women-led collection teams who recover plastic waste from communities and the environment, creating livelihoods while protecting wildlife and natural ecosystems. By transforming this waste into sustainable building materials, we are building a circular economy where women are central to driving lasting environmental, social and economic change.",
+    "website": "https://elecollection.co/",
+    "logo": "/logos/ele-collection.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Simon Teede",
+        "role": "Co-Founder, CEO",
+        "email": "simon@elecollection.co",
+        "phone": "+263783106325"
+      }
+    ]
+  },
+  {
+    "id": "fost",
+    "name": "FOST",
+    "description": "FOST is a Private Voluntary Organization (PVO3/97), registered in 1997, which solicits and facilitates support for orphans and vulnerable children and youth in farm communities in Zimbabwe. The FOST programme is based on the belief that orphaned children have the best opportunity for development within a family group, without sibling separation, in an environment that is familiar and where they have the opportunity to learn their culture firsthand.",
+    "website": "https://www.fost.co.zw",
+    "logo": "/logos/fost.jpg",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Blessing Mutama",
+        "role": "Executive Director",
+        "email": "blessing@fost.co.zw",
+        "phone": "+263772819615"
+      }
+    ]
+  },
+  {
+    "id": "face",
+    "name": "FACE",
+    "description": "Family Action for Community Empowerment in Zimbabwe is a Zimbabwean Private Voluntary Organization (PVO) working to empower marginalized communities, particularly women, young people, children and persons with disabilities. Its work focuses on social and economic empowerment, resilient livelihoods and environmental sustainability, and improved access to quality basic services, including health, hygiene, education and vocational training.",
+    "website": "https://www.facezim.org",
+    "logo": "/logos/face.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Portipher Guta",
+        "role": "Executive Director",
+        "email": "portipherguta@gmail.com",
+        "phone": "+263772806974"
+      },
+      {
+        "id": "contact-2",
+        "name": "Sikumbuzo Mangezi",
+        "role": "Representative",
+        "email": "portipherguta@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": "family-support",
+    "name": "Family Support",
+    "description": "Family Support Trust is a Zimbabwean non governmental organization that prevents and responds to sexual and gender based violence. The organization runs 6 survivor friendly clinics that attend to women and girls who have experienced sexual and gender based violence. It also conducts prevention activities in the communities that are meant to prevent women and girls from being abused.",
+    "website": "https://www.fst.co.zw",
+    "logo": "/logos/family-support.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Tamburai Muchinguri",
+        "role": "Director",
+        "email": "muchingurit@fst.co.zw",
+        "phone": "0777385291"
+      }
+    ]
+  },
+  {
+    "id": "arc",
+    "name": "ARC",
+    "description": "Adult Rape Clinic (ARC) PVO 61/18 is a Zimbabwean survivor-centered non-governmental organization dedicated to restoring the health, dignity, hope and economic resilience of survivors of sexual and gender-based violence through comprehensive medical, psychosocial, medico-legal, referral and economic empowerment support. Since 2009, ARC has combined frontline care, community engagement, livelihoods strengthening, training, research and advocacy to help survivors recover, rebuild their lives and access their sexual and reproductive health and rights.",
+    "website": "https://adultrapeclinic.org/",
+    "logo": "/logos/arc.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Maceline Mutsa Mukwamba",
+        "role": "Director",
+        "email": "director@adultrapeclinic.org",
+        "phone": "+263774648342"
+      },
+      {
+        "id": "contact-2",
+        "name": "Melody Tsitsi Mutiya",
+        "role": "Representative",
+        "email": "director@adultrapeclinic.org"
+      }
+    ]
+  },
+  {
+    "id": "friendship-bench",
+    "name": "Friendship Bench",
+    "description": "Friendship Bench is a Zimbabwean organisation that brings evidence-based mental health support into marginalised communities by training lay health workers, often grandmothers, to deliver structured Problem-Solving Therapy on simple wooden benches. Founded in Harare by psychiatrist Professor Dixon Chibanda, its model has been proven effective in clinical trials and is now being adapted in countries around the world.",
+    "website": "https://www.friendshipbenchzimbabwe.org/",
+    "logo": "/logos/friendship-bench.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Natalie Simbini",
+        "role": "Development and Fundraising Lead",
+        "email": "natalie.simbini@friendshipbench.io",
+        "phone": "+263772971583"
+      }
+    ]
+  },
+  {
+    "id": "foundations-for-farming",
+    "name": "Foundations for Farming",
+    "description": "Foundations for Farming is a Zimbabwe-based organisation dedicated to transforming lives and communities through faithful stewardship of the land, combining biblical principles with practical, sustainable farming methods. Through training, partnerships and innovative technologies, we equip farmers and agricultural extension officers to improve productivity, restore their land and build resilient livelihoods, producing more with what God has put in their hands.",
+    "website": "https://www.foundationsforfarming.org.zw",
+    "logo": "/logos/foundations-for-farming.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Darryl Edwards",
+        "role": "Managing Director",
+        "email": "manica@foundationsforfarming.org",
+        "phone": "+263712218992"
+      }
+    ]
+  },
+  {
+    "id": "halo-trust",
+    "name": "Halo Trust",
+    "description": "The HALO Trust in Zimbabwe clears landmines and unexploded ordnance, making land safe for agriculture, development, and wildlife conservation.",
+    "website": "https://www.halotrust.org/where-we-work/africa/zimbabwe/",
+    "logo": "/logos/halo-trust.svg"
+  },
+  {
+    "id": "hope-for-kids",
+    "name": "Hope for Kids",
+    "description": "Hope for Kids Zimbabwe is a registered non-profit organisation (PVO 37/20) operating since 2015 in Manicaland Province, Zimbabwe. It supports orphaned and vulnerable children through education, child protection, and family-strengthening interventions. The organisation also empowers young people through vocational skills, entrepreneurship, livelihoods, and community health programmes.",
+    "website": "https://www.hopeforkidszimbabwe.com",
+    "logo": "/logos/hope-for-kids.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Misheck Mlambo",
+        "role": "Director",
+        "email": "director@hopeforkidszimbabwe.com",
+        "phone": "+263772551432"
+      },
+      {
+        "id": "contact-2",
+        "name": "Tashinga Mandeya",
+        "role": "Representative",
+        "email": "director@hopeforkidszimbabwe.com"
+      }
+    ]
+  },
+  {
+    "id": "hospaz",
+    "name": "Hospaz",
+    "description": "Hospice and Palliative Care Association of Zimbabwe (HOSPAZ) is a membership organisation pushing for universal access to compassionate palliative care for all patients who need it in Zimbabwe.",
+    "website": "https://www.hospaz.co.zw",
+    "logo": "/logos/hospaz.webp",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Shupikai Chisero",
+        "role": "Director",
+        "email": "shupikai@hospaz.co.zw",
+        "phone": "+263772614363"
+      },
+      {
+        "id": "contact-2",
+        "name": "Rosemary Chanetsa",
+        "role": "Representative",
+        "email": "shupikai@hospaz.co.zw"
+      }
+    ]
+  },
+  {
+    "id": "dzikwa",
+    "name": "Dzikwa",
+    "description": "Dzikwa Trust, established originally in 2002 and registered as PVO in April 2026, implements a holistic education and wellbeing support program for OVCs in Dzivarasekwa. It operates from its own Activity Center premises at 3147 Rujeko St. DZ 1.",
+    "website": "https://www.dzikwatrust.org/",
+    "logo": "/logos/dzikwa.jpg",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Oili Wuolle",
+        "role": "Founder / Volunteer Program Director",
+        "email": "oili.wuolle@gmail.com",
+        "phone": "+263772403485"
+      }
+    ]
+  },
+  {
+    "id": "kapnek",
+    "name": "Kapnek",
+    "description": "JF Kapnek Zimbabwe is a national non-profit organisation advancing the health, protection, inclusion and wellbeing of vulnerable children, families and communities across Zimbabwe. Through locally led partnerships, the organisation works across public health, disability inclusion, early childhood development, safeguarding and child protection, combining direct service delivery with capacity strengthening, systems change and advocacy. JF Kapnek Zimbabwe is committed to strengthening local institutions and community systems so that sustainable, inclusive solutions are embedded beyond individual projects.",
+    "website": "https://www.jfkapnek.org/",
+    "logo": "/logos/jf-kapnek.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Hillary Tanyanyiwa",
+        "role": "Executive Director",
+        "email": "hillary.tanyanyiwa@jfkapnek.co.zw",
+        "phone": "+263772433350"
+      }
+    ]
+  },
+  {
+    "id": "isheanesu",
+    "name": "Isheanesu",
+    "description": "Isheanesu Multi-Purpose Centre for the Disabled provides rehabilitation, skills training, and care for children and young adults with disabilities in Harare.",
+    "website": "https://www.facebook.com/profile.php?id=100081311206395",
+    "logo": "/logos/isheanesu.jpg"
+  },
+  {
+    "id": "dance-trust",
+    "name": "Dance Trust",
+    "description": "Dance Trust of Zimbabwe (DTZ) promotes contemporary and traditional dance as a tool for social cohesion, youth empowerment, and cultural preservation.",
+    "website": "https://www.dancetrust.co.zw/",
+    "logo": "/logos/dance-trust.jpg"
+  },
+  {
+    "id": "st-christopher",
+    "name": "St Christopher",
+    "description": "St Christopher’s Children with Disability (SCCD) is an organisation committed to improving the lives of children with disabilities and their families through family-centred early identification, early intervention and holistic rehabilitation. SCCD works with families, communities and strategic partners to improve children’s health, development, education and inclusion, while strengthening caregivers and creating pathways for children and families to participate, thrive and achieve their potential.",
+    "website": "https://www.stchristopherschildren.com",
+    "logo": "/logos/st-christophers.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Patricia Kambarami",
+        "role": "Founder/Executive Director",
+        "email": "director@stchristopherschildren.com",
+        "phone": "+263775058642"
+      },
+      {
+        "id": "contact-2",
+        "name": "Dzidzai Tarwireyi",
+        "role": "Representative",
+        "email": "director@stchristopherschildren.com"
+      }
+    ]
+  },
+  {
+    "id": "harare-children-s-rehabilitation-unit",
+    "name": "Harare Children's Rehabilitation Unit",
+    "description": "The aim of Harare Children’s Hospital Trust is to support the development and transformation of the Sally Mugabe Children’s Hospital into a regional center of paediatric excellence through the mobilization of resources, enhancement of service delivery and promotion of child-focused healthcare, research and capacity building.",
+    "website": "http://www.hararechildrenhospitaltrust.org/",
+    "logo": "/logos/harare-children-rehab.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Isabel Matambo",
+        "role": "Finance and Administration Officer",
+        "email": "isabel.matambo@hararechildrenhospitaltrust.org",
+        "phone": "+263775139548"
+      },
+      {
+        "id": "contact-2",
+        "name": "Gail Chirebvu",
+        "role": "Representative",
+        "email": "gail.chirebvu@hararechildrenhospitaltrust.org"
+      }
+    ]
+  },
+  {
+    "id": "kidzcan",
+    "name": "Kidzcan",
+    "description": "KidzCan Zimbabwe is dedicated to increasing the survival rate of children with cancer through provision of chemotherapy, medical supplies, and psychosocial support.",
+    "website": "https://kidzcanzimbabwe.org/",
+    "logo": "/logos/kidzcan.jpg"
+  },
+  {
+    "id": "island-hospice",
+    "name": "Island Hospice",
+    "description": "Island Hospice and Healthcare is the first hospice in Africa, providing holistic palliative care, bereavement counseling, and capacity building for healthcare professionals.",
+    "website": "https://islandhospice.co.zw/",
+    "logo": "/logos/island-hospice.png"
+  },
+  {
+    "id": "nzeve",
+    "name": "Nzeve",
+    "description": "New Zimbabwe Early Ventures in Education (NZEVE), a registered Private Voluntary Organisation (PVO 22/2005), is an organisation of Deaf and hearing people committed to promoting the rights and inclusion of persons with disabilities. NZEVE provides rehabilitation services, educational support, and economic empowerment initiatives for children, youth, and adults with disabilities.",
+    "website": "https://www.nzeve.org.zw",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Blessing Chaipa",
+        "role": "Executive Director",
+        "email": "execdirector@nzeve.org",
+        "phone": "+263772988832"
+      },
+      {
+        "id": "contact-2",
+        "name": "Emily Chitoro",
+        "role": "Representative",
+        "email": "execdirector@nzeve.org"
+      }
+    ]
+  },
+  {
+    "id": "mavambo",
+    "name": "Mavambo",
+    "description": "Mavambo Orphan Care was established to create a healthy self-sustaining community for all children in Zimbabwe by complementing the efforts of the Government. Its mission is empowering children to develop their maximum potential to become socially adjusted, self-sustaining, and healthy responsible citizens. It provides educational, child protection, accelerated literacy, school feeding, vocational skills’ trainings, legal, birth registration, mental health and psychosocial support, capacity building, health and Hygiene, Livelihood (economic strengthening) and parenting and mentoring for girls and support families and caregivers.",
+    "website": "https://www.mavambotrust.org.zw",
+    "logo": "/logos/mavambo.jpg",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Danny Gomwe",
+        "role": "Chief Institutional Officer",
+        "email": "dgomwe@mavambotrust.org.zw",
+        "phone": "+263772408832"
+      },
+      {
+        "id": "contact-2",
+        "name": "Tinovimbanashe Chikwanha",
+        "role": "Representative",
+        "email": "dgomwe@mavambotrust.org.zw"
+      }
+    ]
+  },
+  {
+    "id": "maso",
+    "name": "MASO",
+    "description": "For over 30 years, MASO has championed resilience and sustainable development programmes in Zimbabwe. Guided by its vision of \"Building Resilient Communities for Sustainable Development\", MASO drives lasting impact among vulnerable communities through climate action, environmental stewardship, health and well-being, and evidence-based programming.",
+    "website": "https://www.maso.org.zw",
+    "logo": "/logos/maso.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Tadiwa Kaisa",
+        "role": "National Executive Director",
+        "email": "director@maso.org.zw",
+        "phone": "0774460239"
+      }
+    ]
+  },
+  {
+    "id": "mashamba",
+    "name": "Mashamba",
+    "description": "Mashambanzou Care Trust (MCT) is a faith based Private Voluntary Organisation founded in Harare in 1989 in response to the suffering, stigma and social exclusion experienced by people living with HIV. MCT has evolved into an integrated health and social-development organisation serving vulnerable people and underserved communities while remaining grounded in its founding commitment to compassion, dignity and practical care. MCT’s vision is an AIDS-free, resilient and empowered communities and the mission is to contribute to healthy and socially inclusive communities, free from AIDS, through the provision of comprehensive HIV and integrated health services, support for orphans and vulnerable children, and community support and strengthening initiatives.",
+    "website": "https://www.mashambanzoucaretrust.com",
+    "logo": "/logos/mashambanzou.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Enock Musungwini",
+        "role": "Executive Director",
+        "email": "emusungwini@mashambanzou.co.zw",
+        "phone": "+263773345287"
+      }
+    ]
+  },
+  {
+    "id": "ntengwe",
+    "name": "Ntengwe",
+    "description": "Ntengwe for Community Development promotes social and economic justice for marginalized communities in Binga and Hwange through climate resilience, child rights, and women's empowerment.",
+    "website": "https://ntengwe-dev.net/",
+    "logo": "/logos/ntengwe.png"
+  },
+  {
+    "id": "londoloza",
+    "name": "Londoloza",
+    "description": "Londoloza Trust focuses on environmental conservation, sustainable community development, and wildlife protection in Zimbabwe.",
+    "website": "https://www.londolozatrust.com/",
+    "logo": "/logos/londoloza.png"
+  },
+  {
+    "id": "jafuta",
+    "name": "Jafuta",
+    "description": "The Jafuta Foundation works in the Victoria Falls region to support education, wildlife conservation, healthcare, and cultural preservation.",
+    "website": "https://www.jafutafoundation.org/",
+    "logo": "/logos/jafuta.png"
+  },
+  {
+    "id": "igugu-trust",
+    "name": "Igugu Trust",
+    "description": "iGugu Trust advances ecological regeneration, food and seed sovereignty, and community empowerment through agroecology and Holistic Land and Livestock Management frameworks. All the organization’s programming is informed and inspired by the knowledge, priorities, and leadership of the communities we serve. We work in the communal lands of Hwange West.",
+    "website": "https://www.igugutrust.net",
+    "logo": "/logos/igugu-trust.jpg",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Precious Phiri",
+        "role": "Operations Director",
+        "email": "precious@igugutrust.net",
+        "phone": "00263774214904"
+      }
+    ]
+  },
+  {
+    "id": "lesedi",
+    "name": "Lesedi",
+    "description": "Lesedi Community Projects (LCP) is a local, community-based organisation whose mission is to reduce intergenerational poverty among vulnerable communities in Hwange and Victoria Falls, Matabeleland North. Our core thematic areas are quality inclusive education, primary health care, and broadening young people's employment chances through technical and vocational skills training. The crosscutting elements of our work include gender, climate action, and environmental protection.",
+    "website": "https://lesedizim.org",
+    "logo": "/logos/lesedi.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Toendepi Kamusewu",
+        "role": "Programme Director",
+        "email": "toendepi@ngoko.com",
+        "phone": "0772288393"
+      },
+      {
+        "id": "contact-2",
+        "name": "Nokuthemba Mkwananzi",
+        "role": "Representative",
+        "email": "admin@lesedizim.org"
+      }
+    ]
+  },
+  {
+    "id": "tikobane",
+    "name": "Tikobane",
+    "description": "Tikobane Trust is a grassroots organisation creating opportunities where opportunities do not exist, particularly for underserved rural communities. We connect community development, sustainable livelihoods and entrepreneurship with wildlife conservation to build resilient and prosperous communities.",
+    "website": "https://www.tikobanezimbabwe.org/",
+    "logo": "/logos/tikobane.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Ndlelende Ncube",
+        "role": "Director",
+        "email": "ndlelende@tikobanezimbabwe.org",
+        "phone": "0783297571"
+      },
+      {
+        "id": "contact-2",
+        "name": "Itai Moyo",
+        "role": "Representative",
+        "email": "ndlelende@tikobanezimbabwe.org"
+      }
+    ]
+  },
+  {
+    "id": "rcv",
+    "name": "RCV",
+    "description": "Rehabilitation Centre for the Visually Impaired (RCV) provides vocational training and rehabilitation services to empower visually impaired individuals.",
+    "website": ""
+  },
+  {
+    "id": "rotary-club",
+    "name": "Rotary Club",
+    "description": "The Rotary Club of Harare implements community service projects focused on health, education, water and sanitation, and economic development.",
+    "website": "https://rotaryclubofharare.org/"
+  },
+  {
+    "id": "sat",
+    "name": "SAT",
+    "description": "Established in 2007, Sustainable Agriculture Technology (SAT) is a Zimbabwean NGO advancing rural development and sustainable livelihoods through viable agribusiness models for smallholder farmers. Through the Mwenezi Youth Vocational Skills Training Centre, spearheaded by SAT with support from the OAK Foundation, it equips young people with practical skills in metal fabrication, solar systems and drip irrigation installation—creating pathways to employment, entrepreneurship and climate-smart rural development.",
+    "website": "https://www.satzim.org.zw/",
+    "logo": "/logos/sat.jpg",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Bryan Saunders",
+        "role": "Country Director",
+        "email": "b.saunders@satzim.org",
+        "phone": "+263773196666"
+      },
+      {
+        "id": "contact-2",
+        "name": "Lloyd Masunda",
+        "role": "Representative",
+        "email": "b.saunders@satzim.org"
+      },
+      {
+        "id": "contact-3",
+        "name": "Englebert Dzimbanhete",
+        "role": "Representative",
+        "email": "b.saunders@satzim.org"
+      }
+    ]
+  },
+  {
+    "id": "st-john",
+    "name": "St John",
+    "description": "St John Ambulance Zimbabwe provides first aid training, emergency medical services, and community health programs across the country.",
+    "website": "https://stjohn.org.zw/",
+    "logo": "/logos/st-john-ambulance.png"
+  },
+  {
+    "id": "simukai",
+    "name": "Simukai",
+    "description": "Simukai Child Protection Programme responds to children facing separation, displacement, street-connectedness, abuse, exploitation and other protection risks. Simukai provides an integrated continuum of protection, care and reintegration services for vulnerable children and families. Its intervention model combines immediate protection with longer-term pathways to stability, integrating safeguarding, emergency shelter, case management, psychosocial support, education support, family tracing and reunification, birth registration support, livelihoods and vocational skills development.",
+    "website": "https://www.simukaicpp.org.zw",
+    "logo": "/logos/simukai.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Evans Shingai Magumise",
+        "role": "Executive Director",
+        "email": "evansm@simukaicpp.org.zw",
+        "phone": "+263773887617"
+      }
+    ]
+  },
+  {
+    "id": "terres-des-homme",
+    "name": "Terres Des Homme",
+    "description": "Terre des Hommes Italia (TDH) is an international non-governmental organisation committed to protecting children's rights and supporting vulnerable communities. TDH implements integrated programmes in child protection, education, gender equality, food security and nutrition, agroecology, climate resilience and humanitarian assistance. Working closely with government institutions, local partners and communities, TDH promotes sustainable development, social inclusion and resilience, including among refugees and host communities. Guided by its vision of a world where every child can grow up safe, free from violence and discrimination, and able to fulfil their potential, TDH places child protection at the heart of its mission and approach.",
+    "website": "https://terredeshommes.it/eng/",
+    "logo": "/logos/terres-des-homme.svg",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Matteo Palentini",
+        "role": "Country Representative",
+        "email": "m.palentini@tdhitaly.org",
+        "phone": "0786937037"
+      },
+      {
+        "id": "contact-2",
+        "name": "Giulia Castagner",
+        "role": "Representative",
+        "email": "m.palentini@tdhitaly.org"
+      },
+      {
+        "id": "contact-3",
+        "name": "Jesca Magwaza",
+        "role": "Representative",
+        "email": "m.palentini@tdhitaly.org"
+      }
+    ]
+  },
+  {
+    "id": "child-protection-society",
+    "name": "Child Protection Society",
+    "description": "Child Protection Society (CPS) advocates for children's rights and provides direct support services, including early childhood development and foster care programs.",
+    "website": "https://cps.org.zw/"
+  },
+  {
+    "id": "community-technology-development-organisation",
+    "name": "Community Technology Development Organisation",
+    "description": "Community Technology Development Organisation (CTDO) is a Zimbabwean development organisation whose core areas of work include food and nutrition security, sustainable agriculture, climate change adaptation, environmental protection, biodiversity conservation, ecosystem restoration, and sustainable natural resource management. CTDO also promotes human-wildlife conflict management and human-wildlife coexistence, community seed banks, indigenous seed conservation, regenerative agriculture, and nature-based livelihood solutions that strengthen the resilience of vulnerable rural communities.",
+    "website": "https://www.ctdt.co.zw",
+    "logo": "/logos/community-technology-development-organisation.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Tinashe Sithole",
+        "role": "Project Coordinator",
+        "email": "tinashe@ctdo.org.zw",
+        "phone": "+263772682870"
+      }
+    ]
+  },
+  {
+    "id": "community-organisation-for-poverty-alleviation",
+    "name": "Community Organisation for Poverty Alleviation",
+    "description": "COPAZ works to eradicate poverty and promote sustainable development through community-led agricultural and economic empowerment initiatives.",
+    "website": "https://www.copaz.co.zw/",
+    "logo": "/logos/copaz.jpg"
+  },
+  {
+    "id": "uncommon",
+    "name": "Uncommon",
+    "description": "Uncommon.org builds technology hubs in low-income communities and trains unemployed youth to become software engineers and tech educators, creating high-impact pathways to formal digital employment.",
+    "website": "https://www.uncommon.org/",
+    "logo": "/logos/uncommon.svg",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Farayi Nyamayaro",
+        "role": "Partnerships Lead",
+        "email": "farayi@uncommon.org",
+        "phone": "0782100010"
+      }
+    ]
+  },
+  {
+    "id": "youth-advocates",
+    "name": "Youth Advocates",
+    "description": "Youth Advocates is a youth-led Zimbabwean non-governmental organisation founded in 2004. Its mission is to empower all adolescents and youth with the knowledge, skills, resources and opportunities for healthy productive and fulfilling lives. Building integrated, youth-led systems of support that move young people from crisis to stability and economic independence. Through its 393 Youth Helpline, community programmes and digital platforms, it connects adolescents and young people to health services, psychosocial support, protection from violence and economic opportunities.",
+    "website": "https://www.yadvocates.org",
+    "logo": "/logos/youth-advocates.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Tatenda Songore",
+        "role": "Executive Director",
+        "email": "tatenda@yadvocates.org",
+        "phone": "0772546488"
+      }
+    ]
+  },
+  {
+    "id": "swiss-zim-aid",
+    "name": "Swiss Zim Aid",
+    "description": "SwiZim Trust is a dynamic for-impact organization dedicated to fostering holistic community impact in Zimbabwe and was established in 2020. Through comprehensive educational programs, entrepreneurial support, and psycho-social initiatives, SwiZim Trust empowers individuals to unlock their potential and drive holistic impactful change. Its core programs are anchored on supporting young people for economic empowerment through self-designed learning in safe spaces called nooks.",
+    "website": "https://swizimtrust.com/",
+    "logo": "/logos/zimswissaid.svg",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Cornelius V Nyereyemhuka",
+        "role": "Director",
+        "email": "nyerex@swizimtrust.com",
+        "phone": "+263772224508"
+      },
+      {
+        "id": "contact-2",
+        "name": "Anesu Leon Gundani",
+        "role": "Representative",
+        "email": "nyerex@swizimtrust.com"
+      }
+    ]
+  },
+  {
+    "id": "act",
+    "name": "ACT",
+    "description": "Aids Counselling Trust (ACT Zimbabwe) is dedicated to improving the quality of life for vulnerable communities through comprehensive counseling, community health, psychosocial support, and advocacy.",
+    "website": "https://www.actzimbabwe.org.zw",
+    "logo": "/logos/act.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Samuel Nyikahadzoi",
+        "role": "Executive Director",
+        "email": "director@actzimbabwe.org.zw",
+        "phone": "+263772108280"
+      }
+    ]
+  },
+  {
+    "id": "rafiq-girls",
+    "name": "Rafiq Girls",
+    "description": "Founded in 2002, Rafiki (Rafiki Girls Centre) is a non-profit organisation with a mission to empower girls and young women experiencing social and economic disadvantage through education, vocational skills development, mentorship and livelihood opportunities. Rafiki emerged in response to challenges faced by young women who lost parental care and access to education and economic opportunities during the HIV and AIDS crisis, and has since evolved to address broader barriers to education, livelihoods and social inclusion.",
+    "website": "https://www.rafikigirlscentre.org",
+    "logo": "/logos/rafiq_girls.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Hildah Mahachi",
+        "role": "Executive Director",
+        "email": "hilmah4@gmail.com",
+        "phone": "0772408149"
+      }
+    ]
+  },
+  {
+    "id": "restless-development",
+    "name": "Restless Development",
+    "description": "Restless Development Zimbabwe is a youth-led development organisation that has worked in Zimbabwe since 1985. It partners with young people, especially those aged 10 to 35 who are most marginalised, so their voices shape decisions on health, livelihoods and communities. Its 2025–2030 strategy focuses on youth leadership, sexual and reproductive health and gender justice, livelihoods, and climate justice.",
+    "website": "https://www.restlessdevelopment.org",
+    "logo": "/logos/restless-development.svg",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Charity Bafana",
+        "role": "Co-Director",
+        "email": "charity@restlessdevelopment.org",
+        "phone": "+263776668481"
+      }
+    ]
+  },
+  {
+    "id": "young-africa",
+    "name": "Young Africa",
+    "description": "Young Africa provides technical and vocational education and training (TVET) integrated with life skills and entrepreneurship training to empower marginalized youth.",
+    "website": "https://youngafrica.org/zimbabwe/",
+    "logo": "/logos/young-africa.svg"
+  },
+  {
+    "id": "chiedza",
+    "name": "Chiedza",
+    "description": "Chiedza is a community-based organisation formed in 2001 in Harare, Zimbabwe. The organization is committed to providing education access, retention, completion, and employability services for vulnerable children and young people. It empowers vulnerable children and young people to overcome barriers, realise their potential, and build brighter futures.",
+    "website": "https://www.chiedza.org",
+    "logo": "/logos/chiedza.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Spiwe Chakawa",
+        "role": "Executive Director",
+        "email": "director@chiedza.org",
+        "phone": "+263772189797"
+      },
+      {
+        "id": "contact-2",
+        "name": "Fortunate Shadaya",
+        "role": "Representative",
+        "email": "director@chiedza.org"
+      }
+    ]
+  },
+  {
+    "id": "don-bosco-hwange",
+    "name": "Don Bosco Hwange",
+    "description": "Don Bosco Technical College is a private, non-profit, Catholic institution located in the mining town of Hwange, Zimbabwe, run by the Salesians of Don Bosco dedicated towards youth ministry through education and skills training. Our mission is to empower disadvantaged youth, particularly from socio-economically vulnerable backgrounds, through high-quality Technical and Vocational Education and Training (TVET). A HEXCO accredited institution, it offers courses from National Foundation Certificate to Diploma level, fostering \"Good Christians and Skillful Responsible Citizens.\"",
+    "website": "https://donboscohwg.co.zw/",
+    "logo": "/logos/don-bosco-hwange.jpg",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Tendai Nekatambe",
+        "role": "Job Service Officer",
+        "email": "dbtchwange@gmail.com",
+        "phone": "+263784210118"
+      }
+    ]
+  },
+  {
+    "id": "deaf-zimbabwe-trust",
+    "name": "Deaf Zimbabwe Trust",
+    "description": "Deaf Zimbabwe Trust is a convener, connector, and catalyst for change, increasing the social and economic power of persons with disabilities in Zimbabwe and their families. Deaf Zimbabwe Trust is a national cross-disability rights organization that advocates for the full civil rights of over 1.2 million people with disabilities and their families by promoting equal opportunity, economic power, independent living, and political participation. DZT uses 5 strategic pathways namely, Media and Outreach, Strategic actions and advocacy, building activist leadership, generating knowledge and learning from practice as well as building and mobilizing persons with disabilities and their families for social justice and access.",
+    "website": "https://deafzimbabwetrust.org.zw",
+    "logo": "/logos/deaf_zimbabwe_trust.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Barbra Nyangairi",
+        "role": "Executive Director",
+        "email": "barbra@deafzimbabwetrust.org",
+        "phone": "+263713097320"
+      }
+    ]
+  },
+  {
+    "id": "zimcare",
+    "name": "ZIMCARE",
+    "description": "ZIMCARE Trust is registered private voluntary organization that offers quality care and education to children and adults with intellectual disabilities. We have 14 schools across Zimbabwe.",
+    "website": "https://www.zimcaretrust.org",
+    "logo": "/logos/zimcare.png",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Precious Chirava",
+        "role": "Programmes Officer",
+        "email": "zimcaretrustorg@gmail.com",
+        "phone": "+263771273607"
+      },
+      {
+        "id": "contact-2",
+        "name": "Naume Watyoka",
+        "role": "Representative",
+        "email": "zimcaretrustorg@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": "zvitambo",
+    "name": "Zvitambo",
+    "description": "Zvitambo is a multidisciplinary public health research organisation. Our mission is to help children survive and thrive through research.",
+    "website": "https://www.zvitambo.com",
+    "logo": "/logos/zvitambo.svg",
+    "contacts": [
+      {
+        "id": "contact-1",
+        "name": "Robert Ntozini",
+        "role": "Acting Director",
+        "email": "r.ntozini@zvitambo.com",
+        "phone": "+263773786975"
+      }
+    ]
+  },
+  {
+    "id": "oak",
+    "name": "OAK",
+    "description": "",
+    "website": "https://oakfnd.org/",
+    "logo": "/logos/oak.svg"
+  }
+]

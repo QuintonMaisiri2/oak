@@ -1,0 +1,88 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-primary: #1C2A48;
+  --color-primary-hover: #2A3C63;
+  --color-success: #10B981;
+  --color-error: #EF4444;
+  --color-background: #F4F5F7;
+  --color-surface: #FFFFFF;
+  --color-text-heading: #0F172A;
+  --color-text-body: #475569;
+  --color-text-muted: #64748B;
+  --color-border: #E2E8F0;
+  --color-input-bg: #F1F5F9;
+  --font-sans: var(--font-calibri), sans-serif;
+  --font-mono: var(--font-geist-mono);
+  --font-heading: var(--font-calibri), sans-serif;
+}
+
+:root {
+  --background: var(--color-background);
+  --foreground: var(--color-text-body);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
+
+@layer base {
+  body { margin: 0; }
+  input, select, textarea { min-width: 0; max-width: 100%; }
+  button, a, input, select, textarea { -webkit-tap-highlight-color: transparent; }
+  button:not(:disabled), select { cursor: pointer; }
+  :focus-visible { outline: 2px solid #5274ac; outline-offset: 3px; }
+}
+
+@layer components {
+  .mobile-header { min-height: calc(82px + env(safe-area-inset-top)); padding-top: env(safe-area-inset-top); }
+  .mobile-nav { padding-bottom: env(safe-area-inset-bottom); }
+  .app-content { min-height: calc(100dvh - 82px); padding-bottom: calc(88px + env(safe-area-inset-bottom)); }
+
+  /*
+   * Page containers: one shared spacing scale for every page.
+   *   horizontal padding: 16px (mobile) -> 24px (sm, 640px+) -> 32px (lg, 1024px+)
+   *   vertical padding:   24px (mobile) -> 32px (sm)         -> 40px (lg)
+   * .page-container = default for every content page (1280px max). Use grids / two-column
+   *                   layouts so the width is used (directory, programme, dashboard, admin).
+   * .page-shell     = compact, centred single-purpose pages only: sign-in, pass,
+   *                   cancellation, legal text, scanner and access gates (608px content).
+   * Stack top-level sections inside either container with `space-y-6` (24px).
+   */
+  .page-shell { width: 100%; max-width: 672px; margin-inline: auto; padding: 24px 16px; overflow-wrap: anywhere; }
+  .page-container { width: 100%; max-width: 80rem; margin-inline: auto; padding: 24px 16px; }
+  .page-card { border: 1px solid var(--color-border); border-radius: 22px; background: white; padding: 20px; box-shadow: 0 4px 14px rgb(15 23 42 / 6%); }
+  @media (min-width: 640px) { .page-shell, .page-container { padding: 32px 24px; } }
+  @media (min-width: 1024px) {
+    .app-content { min-height: 100dvh; padding-bottom: 0; }
+    /* Top padding lines content up with the first sidebar nav item, just below the logo divider
+       (sidebar brand block: 24px + 44px logo + 16px + 1px border = 85px, then 16px nav padding). */
+    .page-shell, .page-container { padding: 101px 32px 40px; }
+  }
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 10mm;
+  }
+  body {
+    background: white !important;
+    color: black !important;
+  }
+}
